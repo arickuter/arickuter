@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arickuter
-- 👀 I’m interested in Machine learning, Web Development and Web3 Integration
-- 🌱 I’m currently learning Solana development
+- 👀 I’m interested in Machine learning, Web Development and Web3
+- 🌱 I’m currently learning Web3, Solidity and Rust
 - 📫 How to reach me: arickuter99@gmail.com
