@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arickuter
-- 👀 I’m interested in Machine learning, Web Development and Web3
-- 🌱 I’m currently learning Web3, Solidity and Rust
+- 👀 I’m interested in developing with Rust, Blockchain tech, Web3 and FullStack development
+- 🌱 I’m currently learning Rust, Solidity, Kotlin
 - 📫 How to reach me: arickuter99@gmail.com
