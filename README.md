@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arickuter
-- 👀 I’m interested in developing with Rust, Blockchain tech, Web3 and FullStack development
-- 🌱 I’m currently learning Rust, Solidity, Kotlin
+- 👀 I’m interested in developing with Rust, Solidity and Kotlin
+- 🌱 I’m currently learning the OpenAPI Specification
 - 📫 How to reach me: arickuter99@gmail.com
