@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @arickuter
-- 👀 I’m interested in developing with Rust, Solidity and Kotlin
+- 👀 My favorite programming languages are Rust, Kotlin and Solidity
 - 📫 How to reach me: arickuter99@gmail.com
