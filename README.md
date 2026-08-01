@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @arickuter
 - 👀 My favorite programming languages are Rust, Kotlin and Solidity
-- 📫 How to reach me: arickuter99@gmail.com
+- 📫 How to reach me: aric@arickuter.com
