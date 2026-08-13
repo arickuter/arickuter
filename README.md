@@ -1,4 +1,4 @@
-### Hi, I'm Aric 👋
+### Hey, I'm Aric 👋
 
 Senior software engineer in London, building scalable backend systems that serve millions of users at Blockchain.com.
 
